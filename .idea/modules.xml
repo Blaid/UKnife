@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UKnife.iml" filepath="$PROJECT_DIR$/UKnife.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uknife-annotations/uknife-annotations.iml" filepath="$PROJECT_DIR$/uknife-annotations/uknife-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uknife-compiler/uknife-compiler.iml" filepath="$PROJECT_DIR$/uknife-compiler/uknife-compiler.iml" />
     </modules>
   </component>
 </project>
